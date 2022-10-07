@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body {
+    background-color: #6e6e6e;
+}
+
+main {
+    height: 100vh;
+}
+
+h1 {
+    font-size: 3em;
+    margin-top: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+}
+
+#icor {
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 100px;
+}
+
+p {
+    text-align: center;
+    color: ghostwhite;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: ghostwhite;
+}
+
